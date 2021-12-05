@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="Caseta">Caseta</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="pril">Приложение</string>
+    <string name="Fit">Фитнеса</string>
+    <string name="dla">для</string>
+    <string name="cam">Камера</string>
+    <string name="light">Фонарик</string>
+    <string name="rasp">Расписание</string>
+</resources>
